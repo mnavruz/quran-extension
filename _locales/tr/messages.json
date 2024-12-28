@@ -57,40 +57,40 @@
         "message": "Aralık"
     },
     "Muharram": {
-        "message": "Muharram"
+        "message": "Muharrem"
     },
     "Safar": {
-        "message": "Ṣafar"
+        "message": "Safer"
     },
     "Rabi__al_awwal": {
-        "message": "Rabīʿ al-awwal"
+        "message": "Rebiulevvel"
     },
     "Rabi__al_thani": {
-        "message": "Rabīʿ al-thānī"
+        "message": "Rebiulahir"
     },
     "Jumada_al_ula": {
-        "message": "Jumādá al-ūlá"
+        "message": "Cemaziyelevvel"
     },
     "Jumada_al_akhirah": {
-        "message": "Jumādá-al-ākhirah"
+        "message": "Cemaziyelahir"
     },
     "Rajab": {
-        "message": "Rajab"
+        "message": "Receb"
     },
     "Sha_ban": {
-        "message": "Shaʿbān"
+        "message": "Şaban"
     },
     "Ramadan": {
-        "message": "Ramadan"
+        "message": "Ramazan"
     },
     "Shawwal": {
-        "message": "Shawwāl"
+        "message": "Şevval"
     },
     "Dhu_al_Qa_dah": {
-        "message": "Dhū al-Qaʿdah"
+        "message": "Zikade"
     },
     "Dhu_al_Hijjah": {
-        "message": "Dhū al-Ḥijjah"
+        "message": "Zilhicce"
     },
     "fasting_notification": {
         "message": "Yarın Sünnet Oruç Günü",
@@ -187,7 +187,7 @@
         "message": "Arapça"
     },
     "az": {
-        "message": "Azerbaycanca"
+        "message": "Azerice"
     },
     "bn": {
         "message": "Bengalce"
